@@ -1,6 +1,6 @@
 ---
 - name: spine vpc configuration
-  hosts: 10.200.142.132
+  hosts: 192.168.110.222
   connection: local
   gather_facts: no
 
